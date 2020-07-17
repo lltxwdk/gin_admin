@@ -29,4 +29,6 @@ func init() {
 		fmt.Println(err)
 	}
 	global.GVA_VP = v
+
+	fmt.Println(global.GVA_CONFIG)
 }

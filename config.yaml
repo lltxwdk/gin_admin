@@ -55,7 +55,7 @@ captcha:
 
 # logger configuration
 log:
-    prefix: '[GIN-VUE-ADMIN]'
+    prefix: '[GIN-ADMIN]'
     log-file: true
     stdout: 'DEBUG'
     file: 'DEBUG'
